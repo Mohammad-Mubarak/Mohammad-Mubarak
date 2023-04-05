@@ -78,7 +78,15 @@
  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="mongodb"/>
 <img src="https://img.shields.io/badge/SPINGBOOT-4EA94B?style=for-the-badge&logo=springboot&logoColor=white" align="center" alt="mongodb"/>
  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" align="center" alt="JPA Hibernate"/>
+<br>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" align="center" width="40" height="40"/>  
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="center" alt="mysql" width="40" height="40"/> 
 
+ 
+ 
+ 
+ 
+ 
  
  </div>
   <div align="center"><h3 align="center">Tools</h3> 
