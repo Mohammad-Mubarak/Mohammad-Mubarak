@@ -3,7 +3,7 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">Mohammad Mubarak 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/md-mubarak-khan">Mohammad Mubarak 💻</a>!
 </h1> 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
@@ -121,7 +121,7 @@
 <div align="center">                                                                                         
                                                                                                                              
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mohammad-Mubarak&theme=react-dark&hide_border=true" /></a>    
+
   
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Mubarak&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
