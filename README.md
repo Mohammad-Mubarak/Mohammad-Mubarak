@@ -19,7 +19,7 @@
 
 ## 💫 About Me
 
-- 🚀 Software Engineer with **2.6+ years** of experience building scalable backend systems using **Java, Spring Boot, and Microservices**
+- 🚀 Software Engineer with **2.8+ years** of experience building scalable backend systems using **Java, Spring Boot, and Microservices**
 - 💼 Currently working at **Mobius by Gaian (Gaian Solutions)** as a **Software Engineer**
 - 🔐 Specialized in **Identity and Access Management**, **JWT authentication**, **RBAC**, and secure API interactions
 - 🧩 Implemented fine-grained authorization for **40+ services** using **LuaScript** and **YAML**
