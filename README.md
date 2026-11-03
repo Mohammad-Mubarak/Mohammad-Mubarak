@@ -152,15 +152,6 @@
 - Developed and tested custom SnapLogic snaps, including integrations with Okta APIs.
 - Connected control-plane and data-plane workflows to retrieve audit logs for user activity across Snap pipelines.
 - Supported secure authentication and authorization when handling sensitive activity logs.
-
-### ⚙️ SchemaFlowLogic — Low-Code Backend & Data Integration Platform
-**Tech Stack:** React, React Flow, TypeScript, Redux, Node.js, MySQL, Redis, Server-Sent Events (SSE)
-
-- Built a low-code platform that enables users to design database schemas and create backend applications with CRUD resources, validations, relationships, forms, workflows, and APIs.
-- Developed a visual schema designer for creating tables, fields, unique constraints, foreign keys, and relationships.
-- Secured APIs with JWT-based authentication and role-based authorization for workspace access control.
-- Built an MCP server exposing **130+ tools** for AI agents to interact with platform capabilities.
-
 ---
 
 ## 🎓 Education
