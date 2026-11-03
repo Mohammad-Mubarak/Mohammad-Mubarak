@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/md-mubarak-khan">MD Mubarak 💻</a>
+  Hi there 👋 I'm <a href="https://www.linkedin.com/in/md-mubarak-khan">MD Mubarak</a>
 </h1>
 
-<h2 align="center">Software Engineer | Backend Engineer | Microservices, IAM & Platform Services</h2>
+<h2 align="center">Software Engineer | Java Backend Developer | Microservices & Data Platforms</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&center=true&vCenter=true&width=900&lines=Backend+Engineer+with+2.6%2B+Years+of+Experience;Java+%7C+Spring+Boot+%7C+Microservices;IAM+%7C+JWT+%7C+RBAC+%7C+Keycloak;Kafka+%7C+Docker+%7C+Kubernetes+%7C+Vault;SnapLogic+%7C+Okta+%7C+Platform+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&center=true&vCenter=true&width=900&lines=Software+Engineer+with+3%2B+Years+of+Experience;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Redis+%7C+Event-Driven+Architecture;Database+Platforms+%7C+CDC+%7C+ETL;React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,16 +19,15 @@
 
 ## 💫 About Me
 
-- 🚀 Software Engineer with **2.8+ years** of experience building scalable backend systems using **Java, Spring Boot, and Microservices**
-- 💼 Currently working at **Mobius by Gaian (Gaian Solutions)** as a **Software Engineer**
-- 🔐 Specialized in **Identity and Access Management**, **JWT authentication**, **RBAC**, and secure API interactions
-- 🧩 Implemented fine-grained authorization for **40+ services** using **LuaScript** and **YAML**
-- 🗄️ Contributed to a **Database-as-a-Service (DBaaS)** platform supporting **TiDB, PostgreSQL, MongoDB, ClickHouse**, and other databases
-- 📦 Engineered distributed, containerized services for **file management**, **content delivery**, and **enterprise engagement workflows**
-- ⚡ Hands-on with **Kafka, Vault, Redis, Docker, Kubernetes, NGINX, SnapLogic, Camunda, and AWS**
-- 🎓 Pursuing **Master of Computer Applications (MCA)** from **Chandigarh University**
-- 📍 Based in **Faridabad, Haryana, India**
-- 🌐 Portfolio: **[mdmubarak.com](https://mdmubarak.com)**
+- 🚀 Software Engineer with **3+ years of experience** building secure, scalable backend services and data-platform capabilities.
+- 💼 Working as a **Software Engineer at Mobius Networks, Hyderabad** (since August 2023).
+- ☕ Experienced in **Java, Spring Boot, Spring Security, JPA/Hibernate, and RESTful APIs**.
+- 🔄 Worked on **Database-as-a-Service (DBaaS), Change Data Capture (CDC), ETL pipelines, and event-driven architecture**.
+- ⚡ Built Kafka-based asynchronous services and used Redis caching to reduce database queries by **30%** and API response latency by **25%**.
+- 🔐 Experienced in field-level encryption, HashiCorp Vault, JWT authentication, and role-based authorization.
+- 🧩 Built **SchemaFlowLogic**, a low-code platform for designing schemas and building backend applications, with an MCP server exposing **130+ tools**.
+- 🛠️ Familiar with Docker, Kubernetes, AWS, Camunda, SnapLogic, and CI/CD workflows.
+- 🎓 Completed **Master of Computer Applications (MCA – AI/ML)** at Chandigarh University (2024–2026).
 
 ---
 
@@ -49,7 +48,6 @@
 </p>
 
 - 📧 **Email:** mdmubarak78625@gmail.com
-- 📱 **Mobile:** +91 8800732325
 
 ---
 
@@ -57,44 +55,38 @@
 
 <div align="center">
 
-### Core Programming
+### Programming Languages
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" alt="OOP" />
-<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="DSA" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 
 <br/><br/>
 
 ### Backend & Frameworks
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
 <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA Hibernate" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
 
 <br/><br/>
 
-### IAM, Integration & Automation
-<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/RBAC-1E88E5?style=for-the-badge&logo=shield&logoColor=white" alt="RBAC" />
-<img src="https://img.shields.io/badge/SnapLogic-FF6C37?style=for-the-badge&logo=snaplogic&logoColor=white" alt="SnapLogic" />
-<img src="https://img.shields.io/badge/Okta_API-007DC1?style=for-the-badge&logo=okta&logoColor=white" alt="Okta API" />
+### Messaging, Caching & Integration
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/Camunda-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white" alt="Camunda" />
+<img src="https://img.shields.io/badge/SnapLogic-FF6C37?style=for-the-badge&logo=snaplogic&logoColor=white" alt="SnapLogic" />
 
 <br/><br/>
 
-### Distributed Systems & DevOps
-<img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+### Security & Platform Engineering
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 <br/><br/>
 
@@ -109,15 +101,19 @@
 
 ### Frontend
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 
 <br/><br/>
 
-### Tools
+### Cloud, DevOps & Tools
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 
 </div>
 
@@ -125,65 +121,62 @@
 
 ## 🏆 Professional Experience
 
-### Software Engineer — Mobius by Gaian (Gaian Solutions)
-**Hyderabad, Telangana | Aug 2023 – Present**
+### Software Engineer — Mobius Networks
+**Hyderabad, Telangana | August 2023 – Present**
 
-- Maintained **IAM services** with **Keycloak**, enabling **JWT-based authentication** and **role-based access control** for secure API-level interactions
-- Implemented fine-grained authorization for **40+ services** using **LuaScript** and **YAML**
-- Delivered a **Database-as-a-Service (DBaaS)** platform supporting **TiDB, PostgreSQL, MongoDB, ClickHouse**, and other heterogeneous databases
-- Engineered a distributed, containerized **file management and content delivery microservice** using **Spring Boot, NGINX, and MongoDB**
-- Achieved stable throughput of **1.4K RPS** for file upload and retrieval workflows
-- Integrated an **NGINX-powered CDN**, reducing average file access latency by **35%**
-- Orchestrated multi-channel engagement services across **Email, SMS, Facebook, and YouTube**
-- Centralized secrets and encryption keys using **HashiCorp Vault**
-- Leveraged **Kafka** for action logs, monitoring logs, and event-driven debugging
-- Collaborated with **SRE and support teams** to resolve critical production issues and deliver hotfixes
-
-### Web Development Training — AccioJob
-**Remote | Sep 2022 – Jul 2023**
-
-- Completed backend-focused training covering **Spring Boot**, **Spring JPA**, and high-level API development
-- Built **3+ industry-level projects** with focus on scalable backend systems and RESTful architecture
+- Delivered a **Database-as-a-Service (DBaaS)** platform supporting TiDB, PostgreSQL, MongoDB, ClickHouse, and other heterogeneous databases.
+- Integrated **Change Data Capture (CDC)** to capture and propagate database changes in real time, supporting data synchronization across distributed systems.
+- Created custom Java annotations for reusable validation and security checks across microservices.
+- Applied OOP principles, design patterns, and Java 8+ features such as the Stream API and Lambda Expressions to build maintainable backend services.
+- Developed Kafka-based event-driven services to process asynchronous tasks and support decoupled communication between microservices.
+- Developed and enhanced RESTful APIs, resolved application defects, and improved backend functionality and data operations.
+- Optimized APIs using Redis caching, reducing database queries by **30%** and improving API response latency by **25%**.
 
 ---
 
 ## 💼 Featured Projects
 
+### 🗄️ Database-as-a-Service (DBaaS)
+**Tech Stack:** Java, Spring Boot, JPA/Hibernate, Redis, Kafka, SQL, MongoDB, TiDB, PostgreSQL, ClickHouse, HashiCorp Vault
+
+- Built REST APIs using Spring Boot to manage database schemas and support data storage and retrieval for OLTP and OLAP use cases.
+- Worked with multiple database technologies, including TiDB, PostgreSQL, MongoDB, and ClickHouse.
+- Integrated Change Data Capture (CDC) to capture and propagate database changes across distributed systems.
+- Implemented field-level encryption for sensitive data and integrated HashiCorp Vault for secure key and secret management.
+- Used Kafka for asynchronous, event-driven communication between backend services.
+- Applied Redis caching to reduce repeated database queries and improve API response times.
+
 ### 🔒 EDO — Snap Development
 **Tech Stack:** Java, SnapLogic, Okta APIs
 
-- Developed and tested **Okta** and other custom **SnapLogic snaps**
-- Integrated control-plane and data-plane workflows for fetching audit logs
-- Enabled secure authentication and authorization for sensitive activity logs
+- Developed and tested custom SnapLogic snaps, including integrations with Okta APIs.
+- Connected control-plane and data-plane workflows to retrieve audit logs for user activity across Snap pipelines.
+- Supported secure authentication and authorization when handling sensitive activity logs.
 
-### 🗄️ PI — Database as a Service
-**Tech Stack:** Spring Boot, JPA/Hibernate, SQL, MongoDB, TiDB, PostgreSQL, Lombok
+### ⚙️ SchemaFlowLogic — Low-Code Backend & Data Integration Platform
+**Tech Stack:** React, React Flow, TypeScript, Redux, Node.js, MySQL, Redis, Server-Sent Events (SSE)
 
-- Built REST APIs for database schema management
-- Supported efficient storage and retrieval patterns for **OLTP, OLAP, and Time Series** use cases
-- Integrated role-based access control for users and administrators
+- Built a low-code platform that enables users to design database schemas and create backend applications with CRUD resources, validations, relationships, forms, workflows, and APIs.
+- Developed a visual schema designer for creating tables, fields, unique constraints, foreign keys, and relationships.
+- Secured APIs with JWT-based authentication and role-based authorization for workspace access control.
+- Built an MCP server exposing **130+ tools** for AI agents to interact with platform capabilities.
 
 ---
 
 ## 🎓 Education
 
 ### Chandigarh University
-**Master of Computer Applications (MCA)**  
-**Punjab, India | Aug 2024 – Jul 2026**
+**Master of Computer Applications (MCA – AI/ML)**  
+**Mohali, Punjab | 2024 – 2026**
 
 ---
 
-## 📜 Certifications
+## 📜 Certification & Training
 
-### Databricks
-- Databricks Certified Data Analyst Associate
-- Databricks Certified Data Engineer Associate
-- Databricks Certified Data Engineer Professional
+### AccioJob
+**Full Stack Development Bootcamp | June 2022 – August 2023**
 
-### SnapLogic
-- SnapLogic Integrator Certification
-- Snap Development Certification
-- SnapLogic Integrator Training
+- Completed training in Java, Spring Boot, Spring Security, REST APIs, Redis, Kafka, and MERN stack development.
 
 ---
 
@@ -203,21 +196,20 @@
 
 ---
 
-## 🧠 What I Focus On
+## 🧠 Areas of Focus
 
-- Building secure and scalable backend systems
-- Designing microservices for enterprise platforms
-- IAM, authentication, authorization, and API security
-- Distributed systems, observability, and production reliability
-- Integration engineering with SnapLogic and Okta
-- Performance-focused backend architecture
+- Java backend development and Spring Boot microservices
+- REST API design, security, and performance optimization
+- Database platforms, CDC, and data integration
+- Kafka-based event-driven architecture
+- Redis caching and distributed systems
+- Secure data handling, encryption, and secrets management
+- Low-code platforms and AI-agent integrations
 
 ---
 
 ## ✍️ Dev Note
 
-> I enjoy building backend systems that are secure, scalable, and production-ready.
-
----
+> I enjoy building secure, scalable, and reliable backend systems that solve real-world engineering problems.
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
